@@ -2,7 +2,6 @@
 
 ## About
 
-- demo version of my commercial app
 - mini app for Windows
 - used ElectronJS, NodeJS, Express (API)
 - unique logic, interface and own API server
