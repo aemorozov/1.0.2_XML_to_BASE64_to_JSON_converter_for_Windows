@@ -12,7 +12,7 @@
 
 ## Server
 
-- [This server on GitHub](https://github.com/aemorozov/demo-server-for-the-xml-to-json-convert)
+- [This server with API on GitHub](https://github.com/aemorozov/demo-server-for-the-xml-to-json-convert)
 
 ## Start
 
